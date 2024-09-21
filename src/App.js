@@ -1,7 +1,8 @@
 import "./App.css";
+import XCounter from "./XCounter";
 
 function App() {
-  return <div>count</div>;
+  return <div><XCounter/></div>;
 }
 
 export default App;
